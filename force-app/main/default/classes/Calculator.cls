@@ -3,6 +3,7 @@ public class Calculator {
         system.debug(msg);
        
     }
+    // parameterized method
 public string printAndReturnMessage(string msg) {
         string returnStr = ' ';
         returnStr = msg + '... Ok cool';
