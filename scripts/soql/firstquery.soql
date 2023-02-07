@@ -1,0 +1,9 @@
+SELECT id, name FROM Account
+
+SELECT id, name, project_name__c FROM Salesforce_project__c
+
+SELECT id, name from account order by name desc
+
+SELECT Id, Name, Type, Industry FROM Account where industry = 'energy' limit 2
+
+SELECT Id, Name, Type, phone, Industry FROM Account where phone != null
