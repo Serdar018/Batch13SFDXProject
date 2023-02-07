@@ -19,3 +19,4 @@ The `sfdx-project.json` file contains useful configuration information for your 
 
 
 ## Updated
+- updated readme in feature 1 branch
